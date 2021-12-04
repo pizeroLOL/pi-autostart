@@ -11,7 +11,7 @@ sudo rm microsoft.gpg
 #deepin-wine
 wget -O- https://deepin-wine.i-m.dev/setup.sh | sh
 #kubuntu desktop
-sudo apt-fast -y install kubuntu-desktop
+#sudo apt-fast -y install kubuntu-desktop
 #开发
 sudo apt-fast -y install git docker fontconfig daemonize make cmake g++ vlc openssh-server g++
 #图形化
